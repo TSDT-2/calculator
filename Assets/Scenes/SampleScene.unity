@@ -152,17 +152,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b828abbbdcb61c4bb4511f1f59abeed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sum1: 4
-  sum2: 4
+  sum1: 0
+  sum2: 0
   resultSum: 0
-  min1: 4
-  min2: 4
+  min1: 0
+  min2: 0
   resultMin: 0
-  mult1: 4
-  mult2: 4
+  mult1: 0
+  mult2: 0
   resultMult: 0
-  div1: 4
-  div2: 4
+  div1: 0
+  div2: 0
   resultDiv: 0
 --- !u!4 &248710622
 Transform:
